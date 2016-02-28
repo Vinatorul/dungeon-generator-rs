@@ -1,7 +1,7 @@
 # Dungeon Generator
 
 [![Build Status](https://travis-ci.org/Vinatorul/dungeon-generator-rs.svg?branch=master)](https://travis-ci.org/Vinatorul/dungeon-generator-rs)
-[![Coverage Status](https://coveralls.io/repos/Vinatorul/dungeon-generator-rs/badge.svg?branch=master&service=github)](https://coveralls.io/github/Vinatorul/dungeon-generator-rs?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Vinatorul/dungeon-generator-rs/badge.svg?branch=master)](https://coveralls.io/github/Vinatorul/dungeon-generator-rs?branch=master)
 [![license](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Vinatorul/dungeon-generator-rs/blob/master/LICENSE)
 
 A crate containing different generation algorithms under single interface
