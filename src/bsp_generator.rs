@@ -3,10 +3,10 @@ use rand::{SeedableRng, StdRng, Rng};
 use std::collections::VecDeque;
 use std::cmp::{min, max};
 
-/// Simple Binary Space Partioning dungeon generation algorithm
-/// 1. Workspace splitting to random rectangles with the help of binary tree
-/// 2. In every rectangle generating a random room
-/// 3. Coridors generating with the help of the binary tree, generated at the first step
+/// Simple Binary Space Partioning dungeon generation algorithm:
+///  1. Workspace splitting to random rectangles with the help of binary tree
+///  2. In every rectangle generating a random room
+///  3. Coridors generating with the help of the binary tree, generated at the first step
 pub struct BSPGenerator {
     bs_max_deep: u32,
     deny_split_deep: u32,
