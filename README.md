@@ -8,6 +8,11 @@ A crate containing different generation algorithms under single interface
 
 ## [Documentation](http://vinatorul.github.io/dungeon-generator-rs/dungeon_generator/)
 
+## Example
+For example check
+[this repo](https://github.com/Vinatorul/level_generator_protohttps://github.com/Vinatorul/level_generator_proto).
+![example](example.png)
+
 ## License
 `Dungeon Generator` is licensed under the MIT license. Please read the LICENSE file in this repository for more information.
 
