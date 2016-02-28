@@ -6,7 +6,7 @@
 
 A crate containing different generation algorithms under single interface
 
-[Documentation](https://vinatorul.github.io/dungeon-generator-rs/dungeon-generator)
+## [Documentation](http://vinatorul.github.io/dungeon-generator-rs/dungeon_generator/)
 
 ## License
 `Dungeon Generator` is licensed under the MIT license. Please read the LICENSE file in this repository for more information.
