@@ -1,0 +1,6 @@
+[package]
+name = "dungeon-generator"
+version = "0.1.0"
+authors = ["Alexander <alexander@kuvaev.me>"]
+
+[dependencies]
