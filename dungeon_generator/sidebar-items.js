@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RoomType","Type of the room"]],"struct":[["BSPGenerator","Simple Binary Space Partioning dungeon generation algorithm:"],["Room","Room description struct"]],"trait":[["DungeonGenerator",""]]});

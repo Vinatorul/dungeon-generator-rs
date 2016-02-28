@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RoomType","Type of the room"]],"struct":[["Room","Room description struct"]],"trait":[["DungeonGenerator",""]]});
