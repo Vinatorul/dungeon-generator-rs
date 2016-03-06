@@ -227,8 +227,8 @@ impl DungeonGenerator for BSPGenerator {
                     let d = dungeon[i];
                     // generation rooms
                     let mut room = [0,0,0,0];
-                    room[2] = rng.gen_range(15*d.width/20, 18*d.width/20);
-                    room[3] = rng.gen_range(15*d.height/20, 18*d.height/20);
+                    room[2] = rng.gen_range(10*d.width/20, 16*d.width/20);
+                    room[3] = rng.gen_range(10*d.height/20, 16*d.height/20);
                     room[0] = rng.gen_range(d.x + d.width/20, d.x + d.width - room[2] - d.width/20);
                     room[1] = rng.gen_range(d.y + d.height/20, d.y + d.height - room[3] - d.height/20);
                     rooms.push(Room::new(RoomType::BasicRoom, room));
